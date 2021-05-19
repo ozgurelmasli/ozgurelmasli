@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VueJS , NuxtJS**
 
-- 👯 I’m looking to collaborate on **DateMap**
+- 👯 I’m looking to collaborate on **Some Side Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com](https://github.com)
 
