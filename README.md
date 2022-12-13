@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ElmasliOzgur" target="blank"><img src="https://img.shields.io/twitter/follow/ElmasliOzgur?logo=twitter&style=for-the-badge" alt="ElmasliOzgur" /></a> </p>
 
-- 🔭 I’m currently working on **Nefes21 & Side Projects**
+- 🔭 I’m currently working on **Buddy & Side Projects**
 
-- 🌱 I’m currently learning **VueJS , NuxtJS**
+- 🌱 I’m currently learning **React & React Native **
 
 - 👯 I’m looking to collaborate on **Some Side Projects**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Swift , VueJS , Machine learning , AI**
 
-- 📫 How to reach me **ozgur968@gmail.com**
+- 📫 How to reach me **ozgur_elmasli@hotmail.com**
 
 - 📄 Know about my experiences [http://www.benozgurelmasli.com](http://www.benozgurelmasli.com)
 
