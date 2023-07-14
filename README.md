@@ -17,6 +17,4 @@
 
 - 📫 How to reach me **ozgur_elmasli@hotmail.com**
 
-- 📄 Know about my experiences [http://www.benozgurelmasli.com](http://www.benozgurelmasli.com)
-
 - ⚡ Fun fact **IDK**
