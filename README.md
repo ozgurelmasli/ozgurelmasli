@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com](https://github.com)
 
-- 📝 I regularly write articles on [http://www.benozgurelmasli.com](http://www.benozgurelmasli.com)
-
 - 💬 Ask me about **Swift , VueJS , Machine learning , AI**
 
 - 📫 How to reach me **ozgur_elmasli@hotmail.com**
